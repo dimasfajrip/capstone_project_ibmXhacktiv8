@@ -10,7 +10,8 @@ This capstone project explores publicly available housing property data from Sur
 
 **Raw Dataset Link**  
 [dataset_baru.csv](https://raw.githubusercontent.com/dimasfajrip/capstone_project_ibmXhacktiv8/main/dataset_baru.csv)
-
+**Raw Dataset Clean Link**
+[dataset_new_clean.csv](https://raw.githubusercontent.com/dimasfajrip/capstone_project_ibmXhacktiv8/main/dataset_new_clean.csv)
 ---
 
 ## 🔍 Insight & Findings
